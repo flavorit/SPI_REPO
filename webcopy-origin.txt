@@ -1,0 +1,688 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,700
+File Name: C:\Downloaded Web Sites\infinity-profit.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700
+File Name: C:\Downloaded Web Sites\infinity-profit.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto
+File Name: C:\Downloaded Web Sites\infinity-profit.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cinzel/v4/zOdksD_UUTk1LJF9z4tURA.woff2
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\cinzel\v4\zOdksD_UUTk1LJF9z4tURA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v10/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\opensans\v10\DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\opensans\v13\EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\infinity-profit.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://infinity-profit.com/?a=about
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-12.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=cust&page=about
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-2.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=cust&page=affiliate
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-4.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=cust&page=buy
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-9.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=cust&page=getstarted
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-1.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=cust&page=plans
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-3.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=cust&page=representatives
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-5.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=faq
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-8.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=forgot_password
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-14.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=home
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=login
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-10.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=news
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-6.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=rules
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-13.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=signup
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-11.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/?a=support
+File Name: C:\Downloaded Web Sites\infinity-profit.com\index-7.htm
+Content Type: text/html
+
+Uri: https://infinity-profit.com/favicon1.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\favicon1.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/files/css/animate.css
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\css\animate.css
+Content Type: text/css
+
+Uri: https://infinity-profit.com/files/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://infinity-profit.com/files/css/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\css\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://infinity-profit.com/files/fancybox/blank.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fancybox\blank.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/fonts/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://infinity-profit.com/files/fonts/font-awesome/fonts/fontawesome-webfont5b62-2.html?v=4.6.3
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\font-awesome\fonts\fontawesome-webfont5b62-2.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/fonts/font-awesome/fonts/fontawesome-webfont5b62.html?v=4.6.3
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\font-awesome\fonts\fontawesome-webfont5b62.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/fonts/font-awesome/fonts/fontawesome-webfont5b62.ttf?v=4.6.3
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\font-awesome\fonts\fontawesome-webfont5b62.ttf
+Content Type: font/ttf
+
+Uri: https://infinity-profit.com/files/fonts/font-awesome/fonts/fontawesome-webfont5b62.woff2?v=4.6.3
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\font-awesome\fonts\fontawesome-webfont5b62.woff2
+Content Type: font/woff2
+
+Uri: https://infinity-profit.com/files/fonts/font-awesome/fonts/fontawesome-webfont5b62.woff?v=4.6.3
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\font-awesome\fonts\fontawesome-webfont5b62.woff
+Content Type: font/woff
+
+Uri: https://infinity-profit.com/files/fonts/font-awesome/fonts/fontawesome-webfontd41d.html?
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\font-awesome\fonts\fontawesome-webfontd41d.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/fonts/glyphicons-halflings-regular-2.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\glyphicons-halflings-regular-2.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/fonts/glyphicons-halflings-regular-3.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\glyphicons-halflings-regular-3.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/fonts/glyphicons-halflings-regular-4.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\glyphicons-halflings-regular-4.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/fonts/glyphicons-halflings-regular-5.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\glyphicons-halflings-regular-5.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/fonts/glyphicons-halflings-regular.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\glyphicons-halflings-regular.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/fonts/glyphicons-halflings-regulard41d.html?
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\fonts\glyphicons-halflings-regulard41d.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/img/banner/1.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\banner\1.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/files/img/banner/2.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\banner\2.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/img/banner/header.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\banner\header.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/files/img/bg/1.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\bg\1.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/files/img/bg/2.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\bg\2.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/files/img/direction-arrow.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\direction-arrow.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/files/img/fancybox/fancybox_loading%402x.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\fancybox\fancybox_loading@2x.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/img/fancybox/fancybox_sprite%402x.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\fancybox\fancybox_sprite@2x.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/img/fancybox_loading.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\fancybox_loading.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/img/fancybox_overlay.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\fancybox_overlay.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/img/fancybox_sprite.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\fancybox_sprite.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/files/img/loader.gif
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\loader.gif
+Content Type: image/gif
+
+Uri: https://infinity-profit.com/files/img/separator.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\img\separator.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/files/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/files/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/files/js/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/files/js/jquery.fancybox.pack.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\js\jquery.fancybox.pack.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/files/js/jquery.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/files/js/jquery.mixitup.min.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\js\jquery.mixitup.min.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/files/js/newsticker.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\js\newsticker.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/files/js/script.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\js\script.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/files/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/files/js/wow.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\js\wow.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/files/simple-sidebar.css
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\simple-sidebar.css
+Content Type: text/css
+
+Uri: https://infinity-profit.com/files/style.css
+File Name: C:\Downloaded Web Sites\infinity-profit.com\files\style.css
+Content Type: text/css
+
+Uri: https://infinity-profit.com/font/entypo.woff
+File Name: C:\Downloaded Web Sites\infinity-profit.com\font\entypo.woff
+Content Type: font/woff
+
+Uri: https://infinity-profit.com/images/Alliso.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\Alliso.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/images/bg.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/images/bg_affiliate.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\bg_affiliate.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/bg_home-plans_affiliate_level-1.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\bg_home-plans_affiliate_level-1.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/bg_home-plans_affiliate_level-1_alt.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\bg_home-plans_affiliate_level-1_alt.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/bg_home-plans_affiliate_level-2.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\bg_home-plans_affiliate_level-2.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/bg_home-plans_affiliate_level-3.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\bg_home-plans_affiliate_level-3.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/bg_home-plans_affiliate_level-3_alt.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\bg_home-plans_affiliate_level-3_alt.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/bg_home-plan_affiliate_p_a.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\bg_home-plan_affiliate_p_a.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/images/bg_home-plan_investment-package.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\bg_home-plan_investment-package.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/images/bg_home-plan_investment-package_button.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\bg_home-plan_investment-package_button.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/images/Evely.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\Evely.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/images/flags/100.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\100.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/101.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\101.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/105.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\105.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/106.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\106.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/107.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\107.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/110.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\110.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/113.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\113.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/114.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\114.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/129.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\129.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/138.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\138.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/14.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\14.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/144.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\144.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/156.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\156.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/160.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\160.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/162.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\162.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/164.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\164.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/165.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\165.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/169.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\169.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/171.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\171.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/172.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\172.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/174.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\174.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/176.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\176.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/177.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\177.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/187.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\187.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/192.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\192.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/193.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\193.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/197.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\197.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/199.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\199.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/205.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\205.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/206.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\206.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/208.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\208.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/21.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\21.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/211.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\211.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/217.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\217.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/218.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\218.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/225.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\225.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/226.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\226.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/231.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\231.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/232.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\232.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/239.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\239.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/3.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\3.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/30.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\30.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/36.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\36.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/38.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\38.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/43.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\43.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/44.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\44.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/47.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\47.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/53.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\53.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/54.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\54.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/56.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\56.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/57.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\57.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/61.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\61.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/62.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\62.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/73.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\73.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/75.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\75.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/80.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\80.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/81.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\81.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/96.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\96.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/flags/99.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\flags\99.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/icon_affiliate_features_1.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\icon_affiliate_features_1.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/icon_affiliate_features_2.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\icon_affiliate_features_2.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/icon_affiliate_features_3.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\icon_affiliate_features_3.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/icon_contact-side_1.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\icon_contact-side_1.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/icon_contact-side_2.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\icon_contact-side_2.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/icon_contact-side_3.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\icon_contact-side_3.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/images/img05.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\img05.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/images/Jeremia.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\Jeremia.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/images/list_1.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\list_1.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/images/Ned.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\Ned.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/images/split-white.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\images\split-white.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/img/checkbox.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\img\checkbox.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/img/partners/2.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\img\partners\2.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/img/partners/3.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\img\partners\3.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/img/partners/5.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\img\partners\5.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/img/partners/6.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\img\partners\6.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/img/partners/usdt.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\img\partners\usdt.png
+Content Type: image/png
+
+Uri: https://infinity-profit.com/img/radio.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\img\radio.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/img/select.html
+File Name: C:\Downloaded Web Sites\infinity-profit.com\img\select.html
+Content Type: text/html
+
+Uri: https://infinity-profit.com/img/wood1.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\img\wood1.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/img/wood2.jpg
+File Name: C:\Downloaded Web Sites\infinity-profit.com\img\wood2.jpg
+Content Type: image/jpeg
+
+Uri: https://infinity-profit.com/js/jquery.placeholder.min.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\js\jquery.placeholder.min.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/js/setting.js
+File Name: C:\Downloaded Web Sites\infinity-profit.com\js\setting.js
+Content Type: application/javascript
+
+Uri: https://infinity-profit.com/logo1.png
+File Name: C:\Downloaded Web Sites\infinity-profit.com\logo1.png
+Content Type: image/png
+
