@@ -167,21 +167,7 @@ function checkform() {
 }
 </script>
         <style type="text/css">.get-started-top h3 { font-size: 23px; line-height: 26px; font-weight: 700; margin: 0px; padding: 15px 0px 10px; } .get-started-top p { font-size: 17px; margin: 0px; padding: 0px 0px 10px; } .get-started-separator { background: #8cc63e; margin: 40px 0px; padding: 0px; height: 1px; } .get-started-text { margin: 0px; padding: 20px 0px; width: 460px; } .get-started-text h3 { font-size: 20px; line-height: 22px; font-weight: 800; text-transform: uppercase; color: #5b3821; padding: 0px 0px 10px; margin: 0px 0px 12px; border-bottom: 1px solid #8cc63e; } .get-started-text p { font-size: 15px; padding: 0px; margin: 0px; }</style>
-        <script language="javascript">
-function checkform() {
-  if (document.mainform.username.value=='') {
-    alert("Please type your username!");
-    document.mainform.username.focus();
-    return false;
-  }
-  if (document.mainform.password.value=='') {
-    alert("Please type your password!");
-    document.mainform.password.focus();
-    return false;
-  }
-  return true;
-}
-</script>
+        <style type="text/css">.banner-buttons { margin: 0px; padding: 0px; list-style: none; } .banner-buttons li { margin: 0px 3px 6px; padding: 0px; float: left; height: 42px; width: 96px; } .banner-preview { padding: 0; margin: 30px 0 0; list-style: none; } .banner-preview li { display: none; } .banner-preview li.active { display: block; } .banner-preview li .image { font-size: 18px; line-height: 20px; font-weight: 400; background: #ffc78a; text-align: center; margin: 0px; padding: 30px 30px 100px; border-bottom: 2px solid #f68000; border-radius: 4px 4px 0 0; } .banner-preview li .image h4 { font-size: 18px; line-height: 20px; font-weight: 400; padding: 0 0 15px; margin: 0; } .banner-preview li .image img { max-width: 670px; } .banner-preview li .code { background: #ffffff; margin: 0px; padding: 0px 0px 54px; height: 60px; border-bottom: 2px solid #ebebeb; border-radius: 0 0 4px 4px; position: relative; } .banner-preview li .code textarea { font-size: 11px; color: #979797; background: #ffffff; margin: 0px; padding: 12px; height: 70px; width: 380px; border: 2px solid #f68000; border-radius: 4px; position: absolute; top: -47px; left: 175px; } .bnrs { border: 1px solid #f68000; border-radius: 4px; } #affiliate { background: url(images/bg_affiliate.png) no-repeat; min-height: 700px; background-position-x: 76px; padding-top: 30px; margin-top: 30px; } #affiliate .how { font-size: 15px; font-weight: 400; color: #ffffff; margin: 0px; padding: 0px 0px 0px 402px; height: 204px; margin-top: -38px; } #affiliate .how h3 { font-size: 26px; font-weight: 600; margin: 0px; padding: 32px 0px 0px; color: #5b3821; } #affiliate .how p { margin: 0px; padding: 12px 0px 0px; font-weight: 600; color: #5b3821; } #affiliate .features { font-size: 17px; font-weight: 400; color: #2b2b2b; margin: 0px; padding: 2px 0px 0px 307px; height: 336px; list-style: none; overflow: hidden; } #affiliate .features li { margin: 0px 98px 0px; padding: 29px 0px 10px 90px; } #affiliate .features li.feat-1 { background: url(images/icon_affiliate_features_1.png) no-repeat 0 0; } #affiliate .features li.feat-2 { background: url(images/icon_affiliate_features_2.png) no-repeat 0 11px; } #affiliate .features li.feat-3 { background: url(images/icon_affiliate_features_3.png) no-repeat 0 0; } #affiliate .features li.feat-4 { background: url(images/icon_affiliate_features_4.png) no-repeat 0 0; } #affiliate .features li h4 { font-size: 17px; font-weight: 400; margin: 0px; padding: 0px 0px 10px; } #affiliate .features li p { margin: 0px; padding: 0px; font-weight: bold; margin-top: -14px; margin-bottom: 25px; } #affiliate .box { font-size: 13px; font-weight: 400; background: rgba(245, 245, 245, 0.34); margin: -56px 0px 0px 0px; padding: 20px 40px; border-bottom: 3px solid #a6ce37; border-radius: 15px; } #affiliate .box .half { margin: 0px; padding: 0px; width: 400px; } #affiliate .box .half h4 { font-size: 17px; line-height: 18px; font-weight: 700; text-transform: uppercase; color: #5b3821; text-align: center; margin: 0px 0px 20px; padding: 10px 0px 20px; border-bottom: 1px solid #8cc63e; } #affiliate .box .half .info { margin: 0px; padding: 0px; height: 130px; } #affiliate .box .half .info.representative { background: url(images/icon_affiliate_representative.png) no-repeat center top; } #affiliate .box .half .text { margin: 0px; padding: 0px 0px 10px; } #affiliate .box .info ul { font-size: 17px; line-height: 25px; font-weight: 700; color: #5b3821; padding: 0px; margin: 0px auto; width: 190px; list-style: none; } #affiliate .box .info ul li { height: 25px; padding: 0px 0px 16px; margin: 0; } #affiliate .box .info ul li.level-1 { background: url(images/bg_home-plans_affiliate_level-1.png) no-repeat center top; } #affiliate .box .info.alt ul li.level-1 { background: url(images/bg_home-plans_affiliate_level-1_alt.png) no-repeat center top; } #affiliate .box .info ul li.level-2 { background: url(images/bg_home-plans_affiliate_level-2.png) no-repeat center top; } #affiliate .box .info ul li.level-3 { background: url(images/bg_home-plans_affiliate_level-3.png) no-repeat center top; } #affiliate .box .info.alt ul li.level-3 { background: url(images/bg_home-plans_affiliate_level-3_alt.png) no-repeat center top; } #affiliate .box .info ul li span { float: right; }</style>
         <!-- About Section-->
         <section id="about-us">
             <div class="about-top" style="margin-top: 120px;">
@@ -189,140 +175,165 @@ function checkform() {
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="title-block text-center">
-                                <h1>LOGIN</h1>
+                                <h1>Affiliate Program</h1>
                                 <div class="line-block">
-                                    <span class="bullet"><i class="fa fa-lock"></i></span>
+                                    <span class="bullet"><i class="fa fa-chain"></i></span>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!--end row-->
-                    <br>
-                    <center style="background: rgba(245, 245, 245, 0.34);border-radius: 62px; padding: 20px 0 20px 0;">
-                        <form method="post" name="mainform" onsubmit="return checkform()" style="width:504px;">
-                            <input type="hidden" name="form_id" value="16694641995256">
-                            <input type="hidden" name="form_token" value="e539d1d4562d71dd56a0a5b7576ec1c1">
-                            <input type="hidden" name="a" value='do_login'>
-                            <input type="hidden" name="follow" value=''>
-                            <input type="hidden" name="follow_id" value=''>
-                            <table cellspacing="0" cellpadding="2" border="0">
-                                <tr>
-                                    <td>
-                                        <div class="label">Username:</div>
-                                    </td>
-                                    <td>
-                                        <div class="label">
-                                            <input type="text" name="username" value='' class="int big" style=" padding: 5px; width: 220px; margin-top: 9px; margin-bottom: 9px; font-size: 16px; color: #a6ce37; ">
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <div class="label">Password:</div>
-                                    </td>
-                                    <td>
-                                        <div class="label">
-                                            <input type="password" name="password" value='' class="int big" style=" padding: 5px; width: 220px; margin-top: 9px; margin-bottom: 9px; font-size: 16px; color: #a6ce37; " size="30">
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>&nbsp;</td>
-                                    <td>
-                                        <button type="submit" class="submit btn btn-primary">Login</button>
-                                    </td>
-                                </tr>
-                            </table>
-                        </form>
-                        <br>
-                        <br>
-                        or 
-                        <a href="index-14.htm?a=forgot_password">remember your login information</a>.
-                    </center>
-                    <!--end row-->
+                    <section id="affiliate">
+                        <!-- WRAP -->
+                        <div class="wrap" style="background: rgba(245, 245, 245, 0.34);border-radius: 15px;">
+                            <!-- HOW -->
+                            <div class="how">
+                                <h3>How does our affiliate program work?</h3>
+                                <p>Our affiliate program works by simple principles and it's in 3 levels of 5-2-1%.<br>
+			You have to be an active member (a member with a deposit) to earn it.<br>
+			All you have to do is share our project idea with others,<br>
+			via sharing your affiliate link available in your personal account.</p>
+                            </div>
+                            <!-- /HOW -->
+                            <!-- FEATURES -->
+                            <ul class="features">
+                                <li class="feat-1">
+                                    <p style="color: #5b3821;">We pay commission from any investment made by your referred person.</p>
+                                </li>
+                                <li class="feat-2">
+                                    <p style="color: #5b3821;">You will receive commission of all deposit volumes made by your sub-referrals.</p>
+                                </li>
+                                <li class="feat-3">
+                                    <p style="color: #5b3821;">Receive commission of all deposit volumes from third level referrals.</p>
+                                </li>
+                            </ul>
+                            <!-- /FEATURES -->
+                            <!-- BOX -->
+                            <div class="box">
+                                <div class="half pull-left">
+                                    <h4>Join Our Affiliate Program</h4>
+                                    <div class="info levels">
+                                        <ul>
+                                            <li class="level-1 text-green">
+                                                <span>5%</span>1st
+                                            </li>
+                                            <li class="level-2 text-blue">
+                                                <span>2%</span>2nd
+                                            </li>
+                                            <li class="level-3">
+                                                <span>1%</span>3rd
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <p class="text" style="color: #5b3821;font-weight: 600;">Regular members who have an active deposit can participate in our three-level affiliate program. No minimum quantity of invited users required and the affiliate link you receive comes with no obligations and commission will be added to your account balance in the same currency your referral made a deposit. You can find your own affiliate link and banners in the SoundPath Invesrment member area. We hope it will be a partnership that's efficient mutually beneficial.</p>
+                                </div>
+                                <div class="half pull-right">
+                                    <h4>Be one of our representatives</h4>
+                                    <div class="info levels alt">
+                                        <ul>
+                                            <li class="level-1 text-blue-dark">
+                                                <span>6%</span>1st
+                                            </li>
+                                            <li class="level-2 text-blue">
+                                                <span>4%</span>2nd
+                                            </li>
+                                            <li class="level-3 text-blue-light">
+                                                <span>2%</span>3rd
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <p class="text" style="color: #5b3821;font-weight: 600;">You can become an official representative and awarded with a higher commission, get in touch with support center 24 hours a day, attract more investors from your region by being listed in our representatives page and many more advantages which can be discussed individually with administrative department. Your active deposit amount should be higher than $500 and you need to have minimum of 8 active referrals to become a representative.</p>
+                                </div>
+                                <div class="clearfix"></div>
+                                <br>
+                            </div>
+                        </div>
+                        <!-- /BOX -->
+                    </section>
                 </div>
-                <!--end row-->
+                <!-- /WRAP -->
             </div>
-            <!--end row-->
-            <!--end container-->
-            <!--end about-top-->
-            <center>
-                <div class="row" style="
+        </section>
+        <!--end row-->
+        <!--end row-->
+        <!--end container-->
+        <!--end about-top-->
+        <center>
+            <div class="row" style="
     height: 164px;
     padding-top: 53px;
     width: 100%;
 ">
-                    <div class="col-xs-6 col-sm-2" style="    margin-left: 8%;">
-                        <img style="border: 5px solid #a6ce37; border-radius: 11px;" src="img/partners/usdt.png" height="80" width="140" alt="partner">
-                    </div>
-                    <div class="col-xs-6 col-sm-2">
-                        <img style="border: 5px solid #a6ce37; border-radius: 11px;" src="img/partners/2.jpg" height="80" width="140" alt="partner">
-                    </div>
-                    <div class="col-xs-6 col-sm-2">
-                        <img style="border: 5px solid #a6ce37; border-radius: 11px;" src="img/partners/3.jpg" height="80" width="140" alt="partner">
-                    </div>
-                    <div class="col-xs-6 col-sm-2">
-                        <img style="border: 5px solid #a6ce37; border-radius: 11px;" src="img/partners/5.jpg" height="80" width="140" alt="partner">
-                    </div>
-                    <div class="col-xs-6 col-sm-2">
-                        <img style="margin-left: 10px;border: 5px solid #a6ce37; border-radius: 11px;" src="img/partners/6.jpg" height="80" style="margin-top: 5px; margin-bottom: 5px; margin-left: 15px; margin-right: 15px;" width="140" alt="partner">
-                    </div>
+                <div class="col-xs-6 col-sm-2" style="    margin-left: 8%;">
+                    <img style="border: 5px solid #a6ce37; border-radius: 11px;" src="img/partners/usdt.png" height="80" width="140" alt="partner">
                 </div>
-            </center>
-            <div class="footer-bottom" style="margin-top: 31px;">
-                <div class="separator top" style="
+                <div class="col-xs-6 col-sm-2">
+                    <img style="border: 5px solid #a6ce37; border-radius: 11px;" src="img/partners/2.jpg" height="80" width="140" alt="partner">
+                </div>
+                <div class="col-xs-6 col-sm-2">
+                    <img style="border: 5px solid #a6ce37; border-radius: 11px;" src="img/partners/3.jpg" height="80" width="140" alt="partner">
+                </div>
+                <div class="col-xs-6 col-sm-2">
+                    <img style="border: 5px solid #a6ce37; border-radius: 11px;" src="img/partners/5.jpg" height="80" width="140" alt="partner">
+                </div>
+                <div class="col-xs-6 col-sm-2">
+                    <img style="margin-left: 10px;border: 5px solid #a6ce37; border-radius: 11px;" src="img/partners/6.jpg" height="80" style="margin-top: 5px; margin-bottom: 5px; margin-left: 15px; margin-right: 15px;" width="140" alt="partner">
+                </div>
+            </div>
+        </center>
+        <div class="footer-bottom" style="margin-top: 31px;">
+            <div class="separator top" style="
     margin-top: -24px;
     padding-top: 23px;
 "></div>
-                <div class="container">
-                    <div class="row">
-                        <div style="height:60px; width:100%; text-align:center; line-height:60px">
-                            <a href="index.htm?a=home">НOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="index-1.htm?a=cust&amp;page=getstarted">GET STARTED</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="index-12.htm?a=about">ABOUT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="index-13.htm?a=rules">TERMS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="index-11.htm?a=signup">REGISTER</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="index-10.htm?a=login">LOGIN</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="index-6.htm?a=news">NEWS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="index-8.htm?a=faq">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a href="index-7.htm?a=support">SUPPORT</a>
+            <div class="container">
+                <div class="row">
+                    <div style="height:60px; width:100%; text-align:center; line-height:60px">
+                        <a href="index.htm?a=home">НOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="index-1.htm?a=cust&amp;page=getstarted">GET STARTED</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="index-12.htm?a=about">ABOUT</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="index-13.htm?a=rules">TERMS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="index-11.htm?a=signup">REGISTER</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="index-10.htm?a=login">LOGIN</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="index-6.htm?a=news">NEWS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="index-8.htm?a=faq">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <a href="index-7.htm?a=support">SUPPORT</a>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <div class="footer-left">
+                            <ul>
+                                <li>
+                                    <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+                                </li>
+                            </ul>
                         </div>
-                        <div class="col-xs-12 col-sm-6">
-                            <div class="footer-left">
-                                <ul>
-                                    <li>
-                                        <a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
-                                    </li>
-                                    <li>
-                                        <a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-sm-6">
-                            <div class="footer-right text-right">
-                                <p>SoundPath Investment © Copyright 2016-2022. All Rights Reserved.</p>
-                            </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <div class="footer-right text-right">
+                            <p>SoundPath Investment © Copyright 2016-2022. All Rights Reserved.</p>
                         </div>
                     </div>
                 </div>
-                <!--end container -->
             </div>
-            <!--end footer-bottom-->
-            <!-- jQuery -->
-            <script src="files/js/jquery.js"></script>
-            <script src="files/js/bootstrap.min.js"></script>
-            <script src="files/js/jquery.easing.min.js"></script>
-            <script src="files/js/newsticker.js"></script>
-            <script src="files/js/wow.js"></script>
-            <script src="files/js/jquery.mixitup.min.js"></script>
-            <script src="files/js/jquery.fancybox.pack.js"></script>
-            <script src="files/js/waypoints.min.js"></script>
-            <script src="files/js/jquery.counterup.min.js"></script>
-            <script src="files/js/script.js"></script>
-            <script type="text/javascript" src="js/jquery.placeholder.min.js"></script>
-            <script src="js/setting.js"></script>
-        </section>
+            <!--end container -->
+        </div>
+        <!--end footer-bottom-->
+        <!-- jQuery -->
+        <script src="files/js/jquery.js"></script>
+        <script src="files/js/bootstrap.min.js"></script>
+        <script src="files/js/jquery.easing.min.js"></script>
+        <script src="files/js/newsticker.js"></script>
+        <script src="files/js/wow.js"></script>
+        <script src="files/js/jquery.mixitup.min.js"></script>
+        <script src="files/js/jquery.fancybox.pack.js"></script>
+        <script src="files/js/waypoints.min.js"></script>
+        <script src="files/js/jquery.counterup.min.js"></script>
+        <script src="files/js/script.js"></script>
+        <script type="text/javascript" src="js/jquery.placeholder.min.js"></script>
+        <script src="js/setting.js"></script>
     </body>
 </html>
 <!--Start of Tawk.to Script-->
