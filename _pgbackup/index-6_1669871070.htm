@@ -6,7 +6,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>SoundPath Investment</title>
+        <title>infinity-profit.com</title>
         <link rel="shortcut icon" href="favicon1.png" type="image/x-icon">
         <!-- Bootstrap Core CSS -->
         <link href="files/css/bootstrap.min.css" rel="stylesheet">
@@ -167,6 +167,7 @@ function checkform() {
 }
 </script>
         <style type="text/css">.get-started-top h3 { font-size: 23px; line-height: 26px; font-weight: 700; margin: 0px; padding: 15px 0px 10px; } .get-started-top p { font-size: 17px; margin: 0px; padding: 0px 0px 10px; } .get-started-separator { background: #8cc63e; margin: 40px 0px; padding: 0px; height: 1px; } .get-started-text { margin: 0px; padding: 20px 0px; width: 460px; } .get-started-text h3 { font-size: 20px; line-height: 22px; font-weight: 800; text-transform: uppercase; color: #5b3821; padding: 0px 0px 10px; margin: 0px 0px 12px; border-bottom: 1px solid #8cc63e; } .get-started-text p { font-size: 15px; padding: 0px; margin: 0px; }</style>
+        <style type="text/css">.col-centered { float: none; margin: 0 auto; }</style>
         <!-- About Section-->
         <section id="about-us">
             <div class="about-top" style="margin-top: 120px;">
@@ -174,127 +175,47 @@ function checkform() {
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="title-block text-center">
-                                <h1>Registration Form</h1>
+                                <h1>News</h1>
                                 <div class="line-block">
-                                    <span class="bullet"><i class="fa fa-user-plus"></i></span>
+                                    <span class="bullet"><i class="fa fa-newspaper-o"></i></span>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!--end row-->
-                    <script language="javascript">
- function checkform() {
-  if (document.regform.fullname.value == '') {
-    alert("Please enter your full name!");
-    document.regform.fullname.focus();
-    return false;
-  }
- 
-  
-  if (document.regform.username.value == '') {
-    alert("Please enter your username!");
-    document.regform.username.focus();
-    return false;
-  }
-  if (!document.regform.username.value.match(/^[A-Za-z0-9_\-]+$/)) {
-    alert("For username you should use English letters and digits only!");
-    document.regform.username.focus();
-    return false;
-  }
-  if (document.regform.password.value == '') {
-    alert("Please enter your password!");
-    document.regform.password.focus();
-    return false;
-  }
-  if (document.regform.password.value != document.regform.password2.value) {
-    alert("Please check your password!");
-    document.regform.password2.focus();
-    return false;
-  }
- 
-  
-  if (document.regform.email.value == '') {
-    alert("Please enter your e-mail address!");
-    document.regform.email.focus();
-    return false;
-  }
-  if (document.regform.email.value != document.regform.email1.value) {
-    alert("Please retupe your e-mail!");
-    document.regform.email.focus();
-    return false;
-  }
-
-  for (i in document.regform.elements) {
-    f = document.regform.elements[i];
-    if (f.name && f.name.match(/^pay_account/)) {
-      if (f.value == '') continue;
-      var notice = f.getAttribute('data-validate-notice');
-      var invalid = 0;
-      if (f.getAttribute('data-validate') == 'regexp') {
-        var re = new RegExp(f.getAttribute('data-validate-regexp'));
-        if (!f.value.match(re)) {
-          invalid = 1;
-        }
-      } else if (f.getAttribute('data-validate') == 'email') {
-        var re = /^[^\@]+\@[^\@]+\.\w{2,4}$/;
-        if (!f.value.match(re)) {
-          invalid = 1;
-        }
-      }
-      if (invalid) {
-        alert('Invalid account format. Expected '+notice);
-        f.focus();
-        return false;
-      }
-    }
-  }
-
-  if (document.regform.agree.checked == false) {
-    alert("You have to agree with the Terms and Conditions!");
-    return false;
-  }
-
-  return true;
- }
-
- function IsNumeric(sText) {
-  var ValidChars = "0123456789";
-  var IsNumber=true;
-  var Char;
-  if (sText == '') return false;
-  for (i = 0; i < sText.length && IsNumber == true; i++) { 
-    Char = sText.charAt(i); 
-    if (ValidChars.indexOf(Char) == -1) {
-      IsNumber = false;
-    }
-  }
-  return IsNumber;
- }
- </script>
-                    <center>
-                        <div class="col-centered col-md-8 col-md-offset-2" style="background: rgba(245, 245, 245, 0.34);padding: 20px 15px 1px 15px;border-radius: 15px;">
+                    <div class="row">
+                        <div class="col-md-8 col-centered" style="background: rgba(245, 245, 245, 0.34);padding: 20px 15px 1px 15px;border-radius: 15px;">
                             <table class="table table-bordered" style="border: 1px solid #5b3821;">
                                 <thead>
                                     <th>
-                                        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
-                                        <script>
-  hbspt.forms.create({
-    region: "na1",
-    portalId: "23484723",
-    formId: "6644fb51-afbf-4a3c-a44a-4049c2e5170f"
-  });
-</script>
-                                        <center></center>
+                                        <center>No news found</center>
                                     </th>
                                 </thead>
                             </table>
                         </div>
-                    </center>
+                    </div>
+                    <br>
+                    <br>
+                    <br>
+                    <!--end row-->
+                    <!--
+
+<h3>News</h3><br>
+
+<table cellspacing=1 cellpadding=2 border=0 width=100%>
+<tr>
+ <td colspan=3 align=center>No news found</td>
+</tr>
+</table>
+
+<center>
+<ul class="pagination"><li class="page-item"><a class="prev page-link disabled">&lt;&lt;</a></li><li class="page-item active"><a class="page-link">1</a></li><li class="page-item"><a class="next page-link disabled">&gt;&gt;</a></li></ul>
+</center>
+
+ -->
                 </div>
+                <!--end row-->
             </div>
-            <!--.content-->
-            <!--end row-->
-            <!--end row-->
             <!--end container-->
             <!--end about-top-->
             <center>
