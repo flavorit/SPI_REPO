@@ -141,7 +141,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     color: #333;
-    background: #ffffff;
+    background: #fff;
     width: 100%;
 }
 
@@ -159,14 +159,14 @@ section {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.95);
+    background: #ffffff;
     z-index: 13000;
     height: 100%;
 }
 
 .preloader_image {
-    width: 400px;
-    height: 480px;
+    width: 220px;
+    height: 180px;
     position: absolute;
     left: 50%;
     top: 50%;
